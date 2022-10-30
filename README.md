@@ -1,3 +1,4 @@
+![surfs-up](https://user-images.githubusercontent.com/107362585/198901709-b40a0be6-1b02-4033-ab00-6cf0d5765c54.png)
  Surf’s Up
 
 ## Before You Begin
